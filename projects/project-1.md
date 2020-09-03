@@ -1,44 +1,18 @@
----
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
-# All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+title: Entry into eSprts
+permalink: projects/eSports
+date: 2020-09-03
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Gaming
+  - PC
+  - eSports
+summary: “A brief summary of my time in MLG and eSports, and my current plans for future eSports events”
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
-</div>
+<img class="ui medium right floated rounded image" src="/images/micromouse-robot.png">
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
-
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
-
-Here is some code that illustrates how we read values from the line sensors:
-
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
-
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
-
-
-
+I’ve been gaming for as long as I could remember; from childhood to adulthood, and from living in Japan to living here in the United States. While eSports hasn’t been around for long (or at least the televised eSports that many of us are used to seeing on say ESPN), I’ve always imagined it as being a big thing for gamers.
+I’ve participated in a number of eSports practice sessions in the form of competitive gaming on game called “Halo: Reach”. Around this time, eSports was still in its infancy but was also gaining momentum. Even though I was fairly young (I started playing competitively around 2011), I was a pretty good shot and highly perceptive in many game modes. I was so good, in fact, that my friends, teachers, and even my family believed that I had what it took to get into the national or even international league through MLG, or Major League Gaming for short. I’ve missed most of my opportunities, however, and ultimately never had the chance to make it in the big leagues.
+That doesn’t mean, however, that I have given up. At the time of this post, I am a student and thus education is a main priority. However, I have been considering returning to eSports in the form of the Overwatch League, playing under the University of Hawaii’s banner. It will take a lot of practice and it will not be an easy feat as now there are a lot of different gaming leagues. However, there are now a lot of opportunities for eSports that I can take.
