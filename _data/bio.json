@@ -2,14 +2,14 @@
   "basics": {
     "name": "Matthew Kirts",
     "label": "Student",
-    "picture": "https://mkirts.github.io/images/my_ugly_face(2).png",
+    "picture": "https://mkirts.github.io/images/matt.jpg",
     "email": "mkirts@hawaii.edu",
     "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "website": "https://mkirts.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2021.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
+      "address": "137 20th St.",
+      "postalCode": "96818",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,41 +17,31 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "mkirts",
+        "url": "http://github.com/mkirts"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "Matthew Kirts",
+        "url": "http://linkedin.com/in/matthew-kirts-11138b1b4/"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "software engineering",
       "keywords": [
         "Arduino",
         "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
+      "name": "gaming",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "cars",
       "keywords": [
       ]
     }
@@ -65,8 +55,7 @@
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "ES6"
       ]
     },
     {
