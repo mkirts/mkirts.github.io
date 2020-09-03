@@ -12,7 +12,7 @@ labels:
 summary: “A brief summary of my time in MLG and eSports, and my current plans for future eSports events”
 ---
 
-<img class="ui medium right floated rounded image" src="/images/micromouse-robot.png">
+<img class="ui medium right floated rounded image" src="/images/eSports.jpg">
 
 I’ve been gaming for as long as I could remember; from childhood to adulthood, and from living in Japan to living here in the United States. While eSports hasn’t been around for long (or at least the televised eSports that many of us are used to seeing on say ESPN), I’ve always imagined it as being a big thing for gamers.
 I’ve participated in a number of eSports practice sessions in the form of competitive gaming on game called “Halo: Reach”. Around this time, eSports was still in its infancy but was also gaining momentum. Even though I was fairly young (I started playing competitively around 2011), I was a pretty good shot and highly perceptive in many game modes. I was so good, in fact, that my friends, teachers, and even my family believed that I had what it took to get into the national or even international league through MLG, or Major League Gaming for short. I’ve missed most of my opportunities, however, and ultimately never had the chance to make it in the big leagues.
