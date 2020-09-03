@@ -11,7 +11,7 @@ labels:
 summary: “Discussion on game modding and why more gamers should adopt PC gaming”
 ---
 
-<img class="ui medium right floated rounded image" src="/images/caliGTA.png">
+<img class="ui medium right floated rounded image" src="/images/caliGTA.jpg">
 
 Gaming has been an important part of my life, as it has shaped a number of my decisions and choices and helped expand my imagination. You could say that gaming can be a little bit like programming; you are presented with a problem or puzzle and you have to solve it and sometimes, the head-on approach isn’t exactly the best approach. A number of games encourage you to play tactically. For example, you shouldn’t rush into the battlefield head on in Call of Duty, or maybe you should consider crunching a few numbers to tune your cars in Gran Turismo or Forza Motorsport. However, when it comes to gaming, the imagination factor is probably the best part of it.
 
