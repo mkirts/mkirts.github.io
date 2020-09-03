@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/eSports.jpg
 title: Entry into eSports
 permalink: projects/eSports
 date: 2020-09-03
