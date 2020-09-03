@@ -1,25 +1,20 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
-# All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+image: images/caliGTA-square.jpg
+title: Game modification
+permalink: projects/modding
+date: 2020-09-03
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Gaming
+  - PC
+summary: “Discussion on game modding and why more gamers should adopt PC gaming”
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="/images/caliGTA.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+Gaming has been an important part of my life, as it has shaped a number of my decisions and choices and helped expand my imagination. You could say that gaming can be a little bit like programming; you are presented with a problem or puzzle and you have to solve it and sometimes, the head-on approach isn’t exactly the best approach. A number of games encourage you to play tactically. For example, you shouldn’t rush into the battlefield head on in Call of Duty, or maybe you should consider crunching a few numbers to tune your cars in Gran Turismo or Forza Motorsport. However, when it comes to gaming, the imagination factor is probably the best part of it.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+Which is why I wanted to discuss modding. I feel like when you mod (or modify) a game to your likings, it helps immerse players into the environment that they explore. Sometimes they use mod files that people created, other times they mess around with the in-game graphics to have a mood that suits the situation. While it isn’t strictly a PC-only thing (at the time of this post, modding has been released on Xbox and PlayStation to some degree), it’s best experienced there. I’ve spent countless hours, finding the best filters and modifications, editing values, talking with fellow modders and so on to give Grand Theft Auto V a true California feel. Or maybe Fallout 4 that creepy feeling of living in a post-nuclear apocalypse.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+Modding is what made me want to learn programming, to learn software engineering and game design. And it will continue to do so for as long as I live.
