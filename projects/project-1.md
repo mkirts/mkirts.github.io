@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Entry into eSprts
+title: Entry into eSports
 permalink: projects/eSports
 date: 2020-09-03
 labels:
