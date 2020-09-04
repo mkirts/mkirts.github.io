@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/eSports.jpg
-title: Game modification
+title: eSports
 permalink: projects/eSports
 date: 2020-09-03
 labels:
