@@ -14,6 +14,10 @@ labels:
 
 <img class="ui medium center floated rounded image" src="/images/aSmartQuestion.jpg">
 
+
+
+
+
 ## The Smart Way and the Not-So-Smart way; How do you ask a question?
 
 Whenever anyone needs help, the first thing we do is ask for help. It is only natural that people who cannot figure out the solution after exhausting every possible source will do this in the end. After all, there will be roadblocks that cannot be figured out on your own or even after looking through every probable source. Which is why we must discuss asking questions the smart way versus asking questions the not-so-smart way. In this short yet concise essay, I will show you a smart way to ask a question and a not-so-smart way. Some of these may be simple, but they get straight into the point.
