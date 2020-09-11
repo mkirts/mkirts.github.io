@@ -28,7 +28,7 @@ The first thing we need to refer to is Eric Steven Raymond and Rick Moen’s art
 
 ## Questions, the smart way
 
-Stack Overflow is one of the biggest programming communities on the internet. It serves as more than just a place to have your questions answered; it serves as a forum, a site with a number of different answers and approaches to the same question, and a place filled with people who want to reach an end goal. That said, there was one smart question that I really did like, located at [Stack Overflow](https://stackoverflow.com/questions/63665377/mock-for-intersection-observer-in-jest-and-typescript). Attached below this paragraph is the source code that is provided by the user. This question provides the correct title header while also providing source code to work with along problems (and maybe solutions) that the user has reported. What differentiates this from other questions, however, is the fact that the user has already found a workaround but wants to make the code a little more efficient. The answer on the question, in fact, does not redirect the user to another site or to another forum and instead looks for a more efficient way of fixing the code.
+Stack Overflow is one of the biggest programming communities on the internet. It serves as more than just a place to have your questions answered; it serves as a forum, a site with a number of different answers and approaches to the same question, and a place filled with people who want to reach an end goal. That said, there was one smart question that I really did like, located at [Stack Overflow](https://stackoverflow.com/questions/63665377/mock-for-intersection-observer-in-jest-and-typescript). Attached below this paragraph is the source code that is provided by the user as well as the comments made by the user. This question provides the correct title header while also providing source code to work with along problems (and maybe solutions) that the user has reported. What differentiates this from other questions, however, is the fact that the user has already found a workaround but wants to make the code a little more efficient. The answer on the question, in fact, does not redirect the user to another site or to another forum and instead looks for a more efficient way of fixing the code.
 
 ```
 If we use jest with typescript, which have an intersection observer used, the mocking of intersection observer will become hard. So far I'm at:
@@ -83,6 +83,11 @@ How can I add an intersection observer to the jest environment? I think it will 
 
 ## The not-so-smart way
 To me, there is no such thing as a stupid question. After all, questions asked usually have a range in difficulty, from close-to-simple to fairly intense. However, when you ask a smart question, you want to attempt to fulfill the quota as in Eric Raymond and Rick Moen’s article. With that being said, here is one not-so-smart question, aslo at [Stack Overflow](https://stackoverflow.com/questions/50589658/send-special-characters-in-the-string-using-post). As you can see, the title header is a repeat of what is available in the description, just a simple question. There is no detailed description, no attempts at implementation, no indication on whether the user attempted it or not. Of course, a not-so-smart question does not have to be… well… not-so-smart. However, there are a number of redirections to user manuals and/or other websites for working with php.
+
+```
+How can i send special characters like & over POST request?
+
+```
 
 ## Is the smart way always the right way to go?
 
