@@ -12,6 +12,7 @@ labels:
   - General
 ---
 
+<img class="ui small right floated rounded image" src="/images/aSmartQuestion.jpg">
 
 ## The Smart Way and the Not-So-Smart way; How do you ask a question?
 
