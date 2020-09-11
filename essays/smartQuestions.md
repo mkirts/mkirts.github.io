@@ -35,5 +35,6 @@ To me, there is no such thing as a stupid question. After all, questions asked u
 
 ## Is the smart way always the right way to go?
 
-The answer to that question is both yes and no. Yes, because you not only learn and help other people, even those who are helping you, learn. In this case, it is a win-win situation where nobody loses. At the same time, you might only be looking for a simple answer to a question or maybe some guidance on how to initiate a program or start some coding. Often do I go to public forums (especially Stack Overflow) to try and find answers to my questions. Sometimes the questions are trivial, other times they are fairly advanced and require some additional thought.
+The answer to that question is both yes and no. Yes, because you not only learn; you help other people, even those who are helping you, learn in the process. In this case, it is a win-win situation where nobody loses. At the same time, you might only be looking for a simple answer to a question or maybe some guidance on how to initiate a program or start some coding. Often do I go to public forums (especially Stack Overflow) to try and find answers to my questions. Sometimes the questions are trivial, other times they are fairly advanced and require some additional thought.
+
 As I have said before, there is no such thing as a stupid question. However, asking a smart question will help you reach an answer faster than asking a not-so-smart question.
