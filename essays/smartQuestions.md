@@ -12,7 +12,7 @@ labels:
   - General
 ---
 
-<img class="ui medium center floated rounded image" src="/images/aSmartQuestion.jpg">
+<img class="ui medium middle floated rounded image" src="/images/aSmartQuestion.jpg">
 
 
 
