@@ -74,7 +74,7 @@
       "startDate": "2016-08-23",
       "endDate": "2019-06",
       "gpa": "",
-      "courses": [ "Lower Division ICS: ICS 111" ,
+      "courses": [ "Lower Division ICS: ICS 111, EE 150/160" ,
                   "Mathematics: MATH 241, MATH 242" ,
                   "General Chemistry/Natural Sciences: CHEM 161, CHEM 162" ,
                   "Languages: JPN 101, JPN 102, JPN 201, JPN 202"
@@ -95,8 +95,8 @@
       "institution": "Windward Community College",
       "area": "Computer Science",
       "studyType": "B.S.",
-      "startDate": "2016-08-23",
-      "endDate": "2019-06",
+      "startDate": "2019-08-23",
+      "endDate": "2020-06",
       "gpa": "",
       "courses": [ "Lower Division ICS: ICS 141, 212, 241"  
       ]
