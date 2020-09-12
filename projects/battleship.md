@@ -15,7 +15,7 @@ summary: My first project in ICS; Battleship
 
 Prior to my transfer to the University of Hawaii at Manoa, I took classes at one of many of UH's community colleges, Honolulu Community College. It was there that I began to have a level of intrigue for programming; while I did take a class on C in a prior semester under the title EE150, I ended up taking ICS 111 to help gather a basic understanding of coding.
 
-# How to Play Battleship
+## How to Play Battleship
 
 I won't say the class was easy; it required a lot of patience, trial and error, and a lot of help. At the same time, though, it was a great experience. One of the many things we ended up learning was making a simple game and a childhood favorite of many: Battleship. The concept, for those who do not understand, is simple; you and the opponent have a patrol boat (2 points), a submarine (3 points), a destroyer (3 points) a battleship (4 points) and a carrier (5 points). Your primary goal is to eliminate the enemy before they eliminate you. Essentially, kill or be killed. Once all ships on you or your opponents side are sunk, the game ends. Before anyone asks; prior to this project, I have not played Battleship. I've seen YouTube pesronalities BasicallyIDoWrk and Mini Ladd play it once, but that's about it. Originally, I wanted to work on a project for Connect Four or maybe Monopoly, though that one might be a bit more difficult to code on a basic programming level.
 
