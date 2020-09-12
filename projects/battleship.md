@@ -13,6 +13,9 @@ labels:
 summary: My first project in ICS; Battleship
 ---
 
+<img class="ui large center floated rounded image" src="/images/programmingCode.jpg">
+
+
 Prior to my transfer to the University of Hawaii at Manoa, I took classes at one of many of UH's community colleges, Honolulu Community College. It was there that I began to have a level of intrigue for programming; while I did take a class on C in a prior semester under the title EE150, I ended up taking ICS 111 to help gather a basic understanding of coding.
 
 ## How to Play Battleship
