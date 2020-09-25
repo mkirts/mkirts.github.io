@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: IntelliJ and ESLint: A Quick Look and Thoughts
+title: "IntelliJ and ESLint: A Quick Look and Thoughts"
 # All dates must be YYYY-MM-DD format!
 date: 2020-09-24
 labels:
