@@ -1,14 +1,16 @@
 ---
 layout: essay
 type: essay
-title: IntelliJ and ESLint: A Quick Look and Thoughts
+title:  IntelliJ and You: Thoughts on IntelliJ and ESLint
 # All dates must be YYYY-MM-DD format!
-date: 2020-09-24
+date: 2020-09-04
 labels:
   - Software Engineering
   - Learning
   - IntelliJ
+  - ESLint
 ---
+
 
 <img class="ui medium center floated rounded image" src="/images/IntelliJ.png">
 
