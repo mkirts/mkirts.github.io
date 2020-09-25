@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: IntelliJ and ESLint: A Quick Look and Thoughts
+title: "IntelliJ and ESLint: A Quick Look and Thoughts"
 # All dates must be YYYY-MM-DD format!
 date: 2020-09-24
 labels:
@@ -11,6 +11,7 @@ labels:
   - ESLint
 ---
 
+<img class="ui medium center floated rounded image" src="/images/IntelliJ.png">
 
 ## A Quick Introduction
 What is the first thing that comes to mind when you think of programming? For some, it might be some of the languages that can be used such as C++, Java, Python, JavaScript, etc. Others, maybe specific professions related to programming like cyber security or maybe game development. While these are all true about thoughts on programming, there is one specific idea that needs to be discussed and one that beginners might overlook: organization and standards.
