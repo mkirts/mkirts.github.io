@@ -11,6 +11,7 @@ labels:
   - ESLint
 ---
 
+
 <img class="ui medium center floated rounded image" src="/images/IntelliJ.png">
 
 ## A Quick Introduction
