@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/BattleShip
+image: images/semantic
 title: "Frameworks and UI: A Look Into Website Basics"
 permalink: projects/frameworks
 # All dates must be YYYY-MM-DD format!
