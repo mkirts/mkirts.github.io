@@ -14,6 +14,8 @@ labels:
   - CSS
 summary: My first project in ICS; Battleship
 ---
+<img class="ui medium center floated rounded image" src="/images/semantic.png">
+
 
 When I first started working on websites, I thought that it would be difficult, that it would be a hard undergoing. After all, you must not only learn the language, but you also had to make sure that the website worked and has a visually enticing UI. After all, having the best-looking website or at least a beautifully contoured site is what helps people come in and visit. In this short essay, I will discuss my experience with working on HTML and the Semantic UI Framework.
 
