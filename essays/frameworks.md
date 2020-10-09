@@ -1,6 +1,6 @@
 ---
-layout: project
-type: project
+layout: essay
+type: essay
 image: images/semantic
 title: "Frameworks and UI: A Look Into Website Basics"
 permalink: projects/frameworks
