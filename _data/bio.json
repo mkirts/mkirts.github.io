@@ -92,9 +92,9 @@
       "startDate": "2019-08-23",
       "endDate": "Present",
       "gpa": "",
-      "courses": [ "Lower Division ICS: ICS 211"
+      "courses": [ "Lower Division ICS: ICS 211",
+                  "Upper Division ICS: ICS 311, ICS 314"
       ],
-      [ "Upper Division ICS: ICS 311, ICS 314" ],
     }, 
         {
       "institution": "Windward Community College",
