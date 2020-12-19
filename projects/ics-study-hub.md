@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/ICS-Study-Hub.png
+image: images/library.png
 title: ICS Study Hub
 permalink: projects/ics-study-hub
 date: 2020-12-18
